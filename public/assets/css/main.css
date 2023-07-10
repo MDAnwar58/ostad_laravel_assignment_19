@@ -1,0 +1,51 @@
+/* =================common css================= */
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+ul,ol {
+    list-style: none;
+}
+/* =================common css================= */
+/* =================post header start================= */
+.post_header h5 {
+    font-size: 19px;
+    font-weight: 700;
+}
+.post_header h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+/* =================post header end================= */
+/* =================post start================= */
+.post img {
+    height: 30vh;
+}
+.post .h4 {
+    font-size: 23px;
+    font-weight: 700;
+}
+/* =================post end================= */
+
+/* =================post_detail start================= */
+.post_detail .post_details_banner {
+    height: 60vh;
+}
+.post_detail .user_img {
+    height: 10vh;
+}
+/* =================post_detail end================= */
+
+/* =================comment start================= */
+.comment .user {
+    width: 80px;
+    height: 80px;
+}
+.comment .admin {
+    width: 60px;
+    height: 60px;
+}
+/* =================comment end================= */
